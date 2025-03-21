@@ -1,0 +1,9 @@
+/creds.py
+__pycache__/
+*.*~
+.DS_Store
+*.#*
+/geckodriver.log
+/perma_env/
+new_members.csv
+new_*
